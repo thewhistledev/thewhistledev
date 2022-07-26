@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thewhistledev" alt="thewhistledev" /></a> </p>
 
-- 🔭 I’m currently working on **Unify**
+- 🔭 I’m currently working on **Odium**
 
 - 🌱 I’m currently learning **Laravel, Livewire**
 
