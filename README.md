@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Odium.<br>👯 I’m looking to collaborate on any project.<br>🤝 I’m looking for help with learning laravel.<br>🌱 I’m currently learning larael.<br>💬 Ask me about anything lol.
+🔭 I’m currently working on OdiumDev Logger.<br>👯 I’m looking to collaborate on any project.<br>🤝 I’m looking for help with learning laravel.<br>🌱 I’m currently learning larael.<br>💬 Ask me about anything lol.
 
 
 ## 🌐 Socials:
