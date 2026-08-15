@@ -94,10 +94,18 @@ My GitHub is less a carefully manicured museum and more an engineering workshop.
 
 ## GitHub snapshot
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thewhistledev&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=C9D1D9&icon_color=22D3EE&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewhistledev&layout=compact&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" alt="Most used languages" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+  <img src="./assets/github-snapshot.svg" width="100%" alt="GitHub snapshot for thewhistledev" />
+</td>
+<td width="50%" valign="top">
+  <img src="./assets/engineering-focus.svg" width="100%" alt="Engineering focus for thewhistledev" />
+</td>
+</tr>
+</table>
+
+<sub>Snapshot values are intentionally repo-hosted rather than dependent on a third-party stats renderer. Current public profile totals were refreshed in August 2026.</sub>
 
 ---
 
